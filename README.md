@@ -5,6 +5,39 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+This is my way of adding my own lines into this documen
+
+It has nothing to do with the actual documentation it self.
+
+I am just playing around to master some git commands
+
+and to also check te commands that work best with emacs.
+
+I need to master skills like deleting, copying, pasting, and amending commit messages
+
+These are just few of the items i need to do.
+
+to be deleted
+item 1
+item2
+
+item3
+After the locking procedure, i typed s and we move
+
+
+This has been copiedgg
+
+skcbkkjsbcskjcbskjbcskjbskcb
+jcjvvvj
+jfjhhjjhgjgjh
+jhfvjhfvhjjjjh
+kjfhjgfhjghjgjhghj
+jfjhfjhfjhhvjh
+
+
+ from the previous file
+
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
