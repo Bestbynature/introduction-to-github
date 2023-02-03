@@ -24,6 +24,7 @@ item2
 item3
 After the locking procedure, i typed s and we move
 
+The begining of jargons aded to cause conflict while merigging
 
 This has been copiedgg
 
