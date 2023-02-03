@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-This is my way of adding my own lines into this documen
+This is my way of adding my own lines into this document. Though it is inconsequential
 
 It has nothing to do with the actual documentation it self.
 
